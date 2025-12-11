@@ -1,1 +1,0 @@
-# python-week1-personal-intro
